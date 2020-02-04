@@ -1,2 +1,5 @@
 I am learning git for the first time
 This is very interesting
+
+day 2
+I did github and found it great
